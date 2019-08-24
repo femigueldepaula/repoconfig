@@ -1,2 +1,3 @@
 api:
   queue-name: ecommerce_produto_email
+  topic-name: ecommerce_produto_ext	
